@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:detect_fake_location/detect_fake_location.dart';
+import 'package:flutter/material.dart';
 
 void main() {
   runApp(MyApp());
